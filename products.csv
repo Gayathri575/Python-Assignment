@@ -1,0 +1,501 @@
+product_id,product_name
+1,H&M Cotton Shirt
+2,Allen Solly Shirt
+3,Maggi 2-Minute Noodles
+4,OnePlus Nrod
+5,Roadster Men's Jacket
+6,Samzung Galaxy S21
+7,Allen Solly Shirt
+8,Amul Butter
+9,Maggie Noodles
+10,Samsung Galaxy S21
+11,Lee Blue Jeans
+12,Apple iPhone 14 Pro
+13,Fortune Refined Oil
+14,Samsung Galaxy S21
+15,Nike Running Shoes
+16,Dell Inspiron Laptop
+17,Allen Solly Shirt
+18,Nike Running Shoes
+19,Puma Casual Shoes
+20,Adidas Sports T-Shirt
+21,Amul Fresh Milk
+22,Nike Running Shoes
+23,HP Pavilion Laptop
+24,Roadster Men's Jacket
+25,OnePlus Nord
+26,Fortune Sunflower Oil
+27,Aashirwad Wheat Flour
+28,Zara Women's Top
+29,Boat Headphones
+30,Puma Casual Shoes
+31,Maggi 2-Minute Noodles
+32,Apple iPhone 15
+33,Tata Salt
+34,Zara Women's Top
+35,Samzung Galaxy S21
+36,Apple iPhone 14
+37,Samsung Galaxy S21
+38,Samzung Galaxy S21
+39,Aashirvaad Wheat Flour
+40,Apple iPhone 15
+41,Apple iPhone 15
+42,OnePlus Nrod
+43,Lee Blue Jeans
+44,Adidas Sports T-Shirt
+45,Nike Runing Shoes
+46,Apple iPhone 14
+47,Zara Women's Top
+48,Adidas Sports T-Shirt
+49,Adidas Sports T-Shirt
+50,Aashirwad Wheat Flour
+51,Samsung Galaxy S21
+52,Aashirwad Wheat Flour
+53,Allen Solly Shirt
+54,Aashirwad Wheat Flour
+55,Maggi 2-Minute Noodles
+56,Samsung Galaxy S21
+57,Nike Runing Shoes
+58,Amul Fresh Milk
+59,Fortune Refined Oil
+60,OnePlus Nrod
+61,Puma Casual Shoes
+62,Maggi 2-Minute Noodles
+63,Allen Solly Shirt
+64,Sony Headphones
+65,Nike Runing Shoes
+66,Maggie Noodles
+67,Samzung Galaxy S21
+68,HP Pavilion Laptop
+69,HP Pavilion Laptop
+70,Maggie Noodles
+71,Levi's Blue Jeans
+72,Fortune Sunflower Oil
+73,OnePlus Nrod
+74,Apple iPhone 15
+75,Zara Women's Top
+76,Nike Running Shoes
+77,Nike Runing Shoes
+78,Samsung Galaxy S21
+79,Apple iPhone 15
+80,Maggi 2-Minute Noodles
+81,Lee Blue Jeans
+82,Boat Headphones
+83,H&M Cotton Shirt
+84,OnePlus Nrod
+85,Tata Salt
+86,Zara Women's Top
+87,Tata Salt
+88,Roadster Men's Jacket
+89,Allen Solly Shirt
+90,Tata Salt
+91,Nike Running Shoes
+92,Roadster Men's Jacket
+93,Roadster Men's Jacket
+94,Allen Solly Shirt
+95,Fortune Sunflower Oil
+96,Zara Women's Top
+97,Samzung Galaxy S21
+98,Apple iPhone 14 Pro
+99,OnePlus Nord
+100,H&M Cotton Shirt
+101,Samzung Galaxy S21
+102,Samzung Galaxy S21
+103,Aashirvaad Wheat Flour
+104,Apple iPhone 14
+105,Apple iPhone 15
+106,Allen Solly Shirt
+107,Aashirvaad Wheat Flour
+108,Apple iPhone 14
+109,Amul Fresh Milk
+110,Dell Inspiron Laptop
+111,Roadster Men's Jacket
+112,HP Pavilion Laptop
+113,Apple iPhone 14 Pro
+114,Apple iPhone 14
+115,Sony Headphones
+116,Nike Runing Shoes
+117,Amul Fresh Milk
+118,Maggi 2-Minute Noodles
+119,HP Pavilion Laptop
+120,Sony Headphones
+121,Allen Solly Shirt
+122,Puma Casual Shoes
+123,Puma Casual Shoes
+124,OnePlus Nrod
+125,Zara Women's Top
+126,Dell Inspiron Laptop
+127,Lee Blue Jeans
+128,Maggi 2-Minute Noodles
+129,Amul Butter
+130,Fortune Refined Oil
+131,Samsung Galaxy S21
+132,Amul Butter
+133,Fortune Refined Oil
+134,Fortune Refined Oil
+135,Fortune Sunflower Oil
+136,Aashirvaad Wheat Flour
+137,Allen Solly Shirt
+138,Sony Headphones
+139,OnePlus Nrod
+140,H&M Cotton Shirt
+141,Aashirvaad Wheat Flour
+142,Apple iPhone 14
+143,OnePlus Nrod
+144,Aashirwad Wheat Flour
+145,Samsung Galaxy S22
+146,Boat Headphones
+147,Maggi 2-Minute Noodles
+148,Nike Runing Shoes
+149,Fortune Sunflower Oil
+150,H&M Cotton Shirt
+151,Fortune Sunflower Oil
+152,Samsung Galaxy S22
+153,Fortune Refined Oil
+154,Samsung Galaxy S22
+155,Samzung Galaxy S21
+156,Nike Runing Shoes
+157,Puma Casual Shoes
+158,Fortune Sunflower Oil
+159,Apple iPhone 14 Pro
+160,Apple iPhone 14 Pro
+161,Maggi 2-Minute Noodles
+162,Roadster Men's Jacket
+163,Samsung Galaxy S21
+164,Apple iPhone 14
+165,Roadster Men's Jacket
+166,Puma Casual Shoes
+167,Apple iPhone 15
+168,OnePlus Nord
+169,Samsung Galaxy S22
+170,Fortune Sunflower Oil
+171,Nike Runing Shoes
+172,OnePlus Nrod
+173,Fortune Refined Oil
+174,Aashirvaad Wheat Flour
+175,Zara Women's Top
+176,Nike Runing Shoes
+177,Maggi 2-Minute Noodles
+178,Allen Solly Shirt
+179,Apple iPhone 15
+180,Maggie Noodles
+181,Aashirwad Wheat Flour
+182,OnePlus Nord
+183,Tata Salt
+184,Amul Butter
+185,Samzung Galaxy S21
+186,Samzung Galaxy S21
+187,Lee Blue Jeans
+188,Apple iPhone 14 Pro
+189,OnePlus Nord
+190,Aashirvaad Wheat Flour
+191,Allen Solly Shirt
+192,Fortune Sunflower Oil
+193,Samsung Galaxy S22
+194,Apple iPhone 15
+195,Puma Casual Shoes
+196,Fortune Sunflower Oil
+197,OnePlus Nord
+198,Fortune Sunflower Oil
+199,Fortune Refined Oil
+200,Lee Blue Jeans
+201,Apple iPhone 15
+202,Levi's Blue Jeans
+203,Samzung Galaxy S21
+204,Adidas Sports T-Shirt
+205,Fortune Refined Oil
+206,Puma Casual Shoes
+207,OnePlus Nrod
+208,Maggie Noodles
+209,Nike Running Shoes
+210,Lee Blue Jeans
+211,Adidas Sports T-Shirt
+212,Levi's Blue Jeans
+213,Roadster Men's Jacket
+214,Samsung Galaxy S22
+215,OnePlus Nord
+216,Aashirwad Wheat Flour
+217,Zara Women's Top
+218,Maggi 2-Minute Noodles
+219,Apple iPhone 14
+220,Nike Runing Shoes
+221,Tata Salt
+222,Amul Butter
+223,Levi's Blue Jeans
+224,Samsung Galaxy S21
+225,H&M Cotton Shirt
+226,Lee Blue Jeans
+227,Apple iPhone 14 Pro
+228,Allen Solly Shirt
+229,Fortune Refined Oil
+230,HP Pavilion Laptop
+231,Amul Butter
+232,Amul Butter
+233,Dell Inspiron Laptop
+234,Aashirwad Wheat Flour
+235,Nike Running Shoes
+236,OnePlus Nrod
+237,Apple iPhone 14
+238,H&M Cotton Shirt
+239,Tata Salt
+240,OnePlus Nord
+241,Amul Butter
+242,Boat Headphones
+243,Apple iPhone 14
+244,Zara Women's Top
+245,Maggi 2-Minute Noodles
+246,Allen Solly Shirt
+247,Aashirvaad Wheat Flour
+248,H&M Cotton Shirt
+249,HP Pavilion Laptop
+250,Fortune Sunflower Oil
+251,OnePlus Nrod
+252,Aashirwad Wheat Flour
+253,Sony Headphones
+254,Nike Running Shoes
+255,Apple iPhone 14 Pro
+256,Tata Salt
+257,Maggi 2-Minute Noodles
+258,Boat Headphones
+259,Samsung Galaxy S22
+260,Tata Salt
+261,Sony Headphones
+262,Zara Women's Top
+263,Sony Headphones
+264,Apple iPhone 15
+265,Aashirvaad Wheat Flour
+266,Adidas Sports T-Shirt
+267,Lee Blue Jeans
+268,Fortune Sunflower Oil
+269,Boat Headphones
+270,OnePlus Nord
+271,Allen Solly Shirt
+272,Fortune Refined Oil
+273,Dell Inspiron Laptop
+274,Amul Butter
+275,OnePlus Nord
+276,OnePlus Nrod
+277,OnePlus Nrod
+278,Allen Solly Shirt
+279,Samzung Galaxy S21
+280,Maggi 2-Minute Noodles
+281,Nike Runing Shoes
+282,Tata Lite Salt
+283,Samzung Galaxy S21
+284,Apple iPhone 14 Pro
+285,Tata Lite Salt
+286,Samsung Galaxy S22
+287,Fortune Sunflower Oil
+288,Fortune Sunflower Oil
+289,Amul Fresh Milk
+290,Zara Women's Top
+291,Maggi 2-Minute Noodles
+292,Aashirwad Wheat Flour
+293,Amul Butter
+294,Nike Running Shoes
+295,Roadster Men's Jacket
+296,Nike Runing Shoes
+297,Samzung Galaxy S21
+298,Nike Runing Shoes
+299,Allen Solly Shirt
+300,OnePlus Nord
+301,Aashirvaad Wheat Flour
+302,Maggi 2-Minute Noodles
+303,Nike Running Shoes
+304,Allen Solly Shirt
+305,Aashirwad Wheat Flour
+306,Samzung Galaxy S21
+307,Nike Runing Shoes
+308,Roadster Men's Jacket
+309,Lee Blue Jeans
+310,Aashirwad Wheat Flour
+311,Apple iPhone 15
+312,Adidas Sports T-Shirt
+313,Lee Blue Jeans
+314,Fortune Sunflower Oil
+315,OnePlus Nord
+316,Maggi 2-Minute Noodles
+317,Samzung Galaxy S21
+318,Tata Lite Salt
+319,Apple iPhone 15
+320,Allen Solly Shirt
+321,Samsung Galaxy S21
+322,Levi's Blue Jeans
+323,Nike Running Shoes
+324,Roadster Men's Jacket
+325,Fortune Sunflower Oil
+326,Roadster Men's Jacket
+327,Tata Salt
+328,HP Pavilion Laptop
+329,Puma Casual Shoes
+330,OnePlus Nord
+331,OnePlus Nord
+332,OnePlus Nrod
+333,Maggie Noodles
+334,Levi's Blue Jeans
+335,Dell Inspiron Laptop
+336,H&M Cotton Shirt
+337,Lee Blue Jeans
+338,Lee Blue Jeans
+339,Nike Running Shoes
+340,Tata Lite Salt
+341,Aashirvaad Wheat Flour
+342,Amul Fresh Milk
+343,Amul Butter
+344,Zara Women's Top
+345,Lee Blue Jeans
+346,Levi's Blue Jeans
+347,Apple iPhone 15
+348,HP Pavilion Laptop
+349,Tata Salt
+350,Allen Solly Shirt
+351,Allen Solly Shirt
+352,Nike Runing Shoes
+353,Samsung Galaxy S22
+354,Apple iPhone 15
+355,Aashirvaad Wheat Flour
+356,Nike Running Shoes
+357,Nike Running Shoes
+358,OnePlus Nrod
+359,Apple iPhone 14
+360,Tata Salt
+361,Apple iPhone 15
+362,Allen Solly Shirt
+363,Fortune Sunflower Oil
+364,Apple iPhone 14
+365,OnePlus Nrod
+366,Apple iPhone 14
+367,Apple iPhone 15
+368,Tata Lite Salt
+369,Samsung Galaxy S22
+370,Fortune Refined Oil
+371,Dell Inspiron Laptop
+372,Maggie Noodles
+373,Levi's Blue Jeans
+374,Tata Lite Salt
+375,Fortune Sunflower Oil
+376,Maggi 2-Minute Noodles
+377,Samzung Galaxy S21
+378,Apple iPhone 15
+379,Samsung Galaxy S22
+380,Fortune Sunflower Oil
+381,Amul Butter
+382,Samsung Galaxy S21
+383,HP Pavilion Laptop
+384,Apple iPhone 14
+385,Amul Butter
+386,Aashirvaad Wheat Flour
+387,Samsung Galaxy S21
+388,HP Pavilion Laptop
+389,Maggie Noodles
+390,Tata Lite Salt
+391,Samzung Galaxy S21
+392,Apple iPhone 14
+393,HP Pavilion Laptop
+394,Puma Casual Shoes
+395,Nike Runing Shoes
+396,Nike Running Shoes
+397,OnePlus Nord
+398,Apple iPhone 14 Pro
+399,Tata Salt
+400,Apple iPhone 14
+401,HP Pavilion Laptop
+402,Allen Solly Shirt
+403,Nike Runing Shoes
+404,Amul Butter
+405,HP Pavilion Laptop
+406,Maggi 2-Minute Noodles
+407,Fortune Refined Oil
+408,Roadster Men's Jacket
+409,Nike Running Shoes
+410,HP Pavilion Laptop
+411,Puma Casual Shoes
+412,Apple iPhone 14
+413,Fortune Sunflower Oil
+414,Amul Fresh Milk
+415,Apple iPhone 15
+416,Amul Butter
+417,Boat Headphones
+418,OnePlus Nrod
+419,Roadster Men's Jacket
+420,Tata Salt
+421,Samsung Galaxy S21
+422,Tata Lite Salt
+423,Amul Butter
+424,Samzung Galaxy S21
+425,Tata Lite Salt
+426,Amul Butter
+427,Nike Running Shoes
+428,Maggi 2-Minute Noodles
+429,Maggie Noodles
+430,OnePlus Nord
+431,Amul Butter
+432,Amul Fresh Milk
+433,Fortune Sunflower Oil
+434,Allen Solly Shirt
+435,Sony Headphones
+436,Tata Lite Salt
+437,Samsung Galaxy S21
+438,Sony Headphones
+439,Amul Butter
+440,Zara Women's Top
+441,Sony Headphones
+442,Samsung Galaxy S21
+443,Adidas Sports T-Shirt
+444,Fortune Refined Oil
+445,HP Pavilion Laptop
+446,Amul Butter
+447,Allen Solly Shirt
+448,Lee Blue Jeans
+449,OnePlus Nord
+450,Maggi 2-Minute Noodles
+451,Apple iPhone 15
+452,Zara Women's Top
+453,Sony Headphones
+454,H&M Cotton Shirt
+455,Maggi 2-Minute Noodles
+456,Samsung Galaxy S22
+457,Tata Salt
+458,Zara Women's Top
+459,H&M Cotton Shirt
+460,Boat Headphones
+461,Roadster Men's Jacket
+462,Amul Butter
+463,Lee Blue Jeans
+464,Tata Salt
+465,Nike Running Shoes
+466,OnePlus Nrod
+467,Apple iPhone 14
+468,Zara Women's Top
+469,Aashirwad Wheat Flour
+470,Lee Blue Jeans
+471,HP Pavilion Laptop
+472,Levi's Blue Jeans
+473,Apple iPhone 14 Pro
+474,Aashirwad Wheat Flour
+475,Samsung Galaxy S21
+476,Nike Runing Shoes
+477,Lee Blue Jeans
+478,Aashirvaad Wheat Flour
+479,Zara Women's Top
+480,Roadster Men's Jacket
+481,Maggi 2-Minute Noodles
+482,Adidas Sports T-Shirt
+483,Levi's Blue Jeans
+484,Aashirvaad Wheat Flour
+485,Aashirwad Wheat Flour
+486,Sony Headphones
+487,Samsung Galaxy S22
+488,Dell Inspiron Laptop
+489,Maggie Noodles
+490,Nike Runing Shoes
+491,Maggie Noodles
+492,Aashirvaad Wheat Flour
+493,Boat Headphones
+494,Fortune Sunflower Oil
+495,Zara Women's Top
+496,Fortune Sunflower Oil
+497,Maggie Noodles
+498,Samzung Galaxy S21
+499,Tata Lite Salt
+500,Roadster Men's Jacket
